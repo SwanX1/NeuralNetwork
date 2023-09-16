@@ -1,0 +1,18 @@
+{
+  "name": "nnet",
+  "description": "neural network",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "src/index.ts",
+  "author": {
+    "name": "Kārlis Čerņavskis",
+    "email": "karliscern@gmail.com",
+    "url": "https://cernavskis.dev"
+  },
+  "private": true,
+  "license": "CC0-1.0",
+  "keywords": [],
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
